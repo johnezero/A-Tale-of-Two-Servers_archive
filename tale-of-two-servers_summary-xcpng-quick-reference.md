@@ -20,7 +20,8 @@ The servers in focus are the **Dell R720 and R730**, but the lessons apply broad
 
 ## Part 1 — BIOS Settings & Their Effect on Apps and GPU Performance
 
-📄 [Full Article]([https://github.com/tobiaskreidl/Citrix-Tobias-Kreidl-Collection/blob/XenServer-Articles/A%20Tale%20of%20Two%20Servers_%20How%20BIOS%20Settings%20Can%20Affect%20Your%20Apps%20and%20GPU%20Performance.pdf)
+📄  [Full Article]([./tale-of-two-servers-part-2.md](https://github.com/tobiaskreidl/Citrix-Tobias-Kreidl-Collection/blob/XenServer-Articles/A%20Tale%20of%20Two%20Servers_%20How%20BIOS%20Settings%20Can%20Affect%20Your%20Apps%20and%20GPU%20Performance.pdf))
+
 
 ### Key Concepts
 
