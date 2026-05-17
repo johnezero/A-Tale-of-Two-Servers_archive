@@ -48,7 +48,7 @@ The servers in focus are the **Dell R720 and R730**, but the lessons apply broad
 
 ## Part 2 — GPU Settings, Scheduling, and Further BIOS Tuning
 
-📄 [Full Article](./tale-of-two-servers-part-2.md)
+📄 [Full Article](https://github.com/tobiaskreidl/Citrix-Tobias-Kreidl-Collection/blob/XenServer-Articles/A%20Tale%20of%20Two%20Servers%2C%20Part%202_%20How%20Not%20Only%20BIOS%20Settings%2C%20But%20Also%20GPU%20Settings%20Can%20Affect%20Your%20Apps%20and%20GPU%20Performance.pdf)
 
 ### Key Concepts
 
