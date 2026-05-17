@@ -77,7 +77,7 @@ The servers in focus are the **Dell R720 and R730**, but the lessons apply broad
 
 ## Part 3 — NUMA, vCPU/Socket Settings, and Putting It All Together
 
-📄 [Full Article](./tale-of-two-servers-part-3.md)
+📄 [Full Article](https://github.com/tobiaskreidl/Citrix-Tobias-Kreidl-Collection/blob/XenServer-Articles/A%20Tale%20of%20Two%20Servers%2C%20Part%203_%20The%20Influence%20of%20NUMA%2C%20CPUs%20and%20Sockets_Cores-per-Socket%2C%20plus%20Other%20VM%20Settings%20on%20Apps%20and%20GPU%20Performance.pdf)
 
 ### Key Concepts
 
