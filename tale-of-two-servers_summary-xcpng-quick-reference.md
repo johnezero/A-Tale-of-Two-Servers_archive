@@ -161,7 +161,7 @@ xl vcpu-list
 
 | Article | Description |
 |---|---|
-| [Part 1 — BIOS Settings](./tale-of-two-servers-part-1.md) | CPU Power Management, turbo mode, xenpm commands |
+| [Part 1 — BIOS Settings](https://github.com/tobiaskreidl/Citrix-Tobias-Kreidl-Collection/blob/XenServer-Articles/A%20Tale%20of%20Two%20Servers_%20How%20BIOS%20Settings%20Can%20Affect%20Your%20Apps%20and%20GPU%20Performance.pdf) | CPU Power Management, turbo mode, xenpm commands |
 | [Part 2 — GPU Settings](./tale-of-two-servers-part-2.md) | Uncore frequency, GPU schedulers, GPU vendor comparison |
 | [Part 3 — NUMA & vCPU](./tale-of-two-servers-part-3.md) | NUMA topology, vCPU sizing, socket settings, oversubscription |
 
